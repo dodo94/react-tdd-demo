@@ -6,8 +6,17 @@
     "repository": "git@github.com:dodo94/react-tdd-demo.git",
     "author": "Nguyễn Hoàng Đô (dodo94.cntt@gmail.com)",
     "license": "Apache-2.0",
-    "scripts": {},
+    "scripts": {
+        "start": "parcel index.html"
+    },
     "alias": {
         "src": "./src"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
     }
 }
