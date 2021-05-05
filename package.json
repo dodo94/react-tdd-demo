@@ -1,0 +1,13 @@
+{
+    "name": "react-tdd-demo",
+    "version": "0.1.0",
+    "description": "TDD a React app demo",
+    "main": "index.js",
+    "repository": "git@github.com:dodo94/react-tdd-demo.git",
+    "author": "Nguyễn Hoàng Đô (dodo94.cntt@gmail.com)",
+    "license": "Apache-2.0",
+    "scripts": {},
+    "alias": {
+        "src": "./src"
+    }
+}
