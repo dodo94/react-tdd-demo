@@ -8,6 +8,7 @@
     "license": "Apache-2.0",
     "scripts": {
         "start": "parcel index.html",
+        "unit": "jest test/**/*.spec.js",
         "e2e": "cypress open"
     },
     "alias": {
@@ -15,6 +16,7 @@
     },
     "devDependencies": {
         "cypress": "^7.2.0",
+        "jest": "^26.6.3",
         "parcel-bundler": "^1.12.5"
     },
     "dependencies": {
